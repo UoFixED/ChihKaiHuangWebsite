@@ -369,7 +369,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(255, 255, 255,1);
   display: inline-block;
   float: left;
-padding-top:25px;
+  padding-top:25px;
 
 }
 .info li .paperA {
